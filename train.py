@@ -52,7 +52,7 @@ print("Data split - Train : {:d} / Dev : {:d}".format(len(train_Y), len(test_Y))
 # Train & Test
 # ==================================================
 
-training_epochs = 3
+training_epochs = 10 
 result = []
 
 for i in range(1,training_epochs+1):
