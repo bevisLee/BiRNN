@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/bevislee/Downloads/Sentimental-Analysis/runs/1527991171/checkpoints/model-4687"
+all_model_checkpoint_paths: "/Users/bevislee/Downloads/Sentimental-Analysis/runs/1527991171/checkpoints/model-1000"
+all_model_checkpoint_paths: "/Users/bevislee/Downloads/Sentimental-Analysis/runs/1527991171/checkpoints/model-2000"
+all_model_checkpoint_paths: "/Users/bevislee/Downloads/Sentimental-Analysis/runs/1527991171/checkpoints/model-3000"
+all_model_checkpoint_paths: "/Users/bevislee/Downloads/Sentimental-Analysis/runs/1527991171/checkpoints/model-4000"
+all_model_checkpoint_paths: "/Users/bevislee/Downloads/Sentimental-Analysis/runs/1527991171/checkpoints/model-4687"
